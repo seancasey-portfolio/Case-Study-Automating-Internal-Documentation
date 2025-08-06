@@ -30,6 +30,14 @@ This workflow uses a supervised software tool to act as a "digital chronicler." 
 
  ---
 
+ ### **Technical Appendix: The Demonstration Script**
+    
+ For those interested in the practical implementation, a clean, well-commented Python script demonstrating the core methodology of this case study can be found in the `src` directory of this repository. The script is designed to be a self-contained, illustrative example, not a production-ready engine.
+    
+   *   [**View the script: `demo_meeting_summarizer.py`**](./src/demo_meeting_summarizer.py)
+
+ ---
+
 *Go back to the [**Main Portfolio Page**](https://github.com/seancasey-portfolio) or explore another case study:*
 *   *[Turning Messy Spreadsheets into a Usable Database](https://github.com/seancasey-portfolio/Case-Study-Cleaning-Legacy-Data)*
 *   *[Automating Internal Reports & Documentation](https://github.com/seancasey-portfolio/Case-Study-Automating-Internal-Documentation)*
